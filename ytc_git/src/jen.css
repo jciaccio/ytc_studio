@@ -1,0 +1,33 @@
+
+h1 {
+color: #ffcc00;
+transition-duration: 0.8s;
+display: inline-block;
+
+}
+
+
+h1:hover{
+  font-size: 40px;
+}
+
+.head{
+  background-image: radial-gradient(#ccffff, white);
+  box-shadow: 10px 5px 5px white;
+}
+Body{
+ 
+  background-image: radial-gradient(#ffccff, white);
+  )
+  font-family: 'Cinzel', serif;
+}
+.footer{
+  
+  diplay: inline-block;
+  background-image: radial-gradient(#ccffff, white);
+  box-shadow: 10px 5px 5px white;
+position:absolute;
+bottom:0;
+width:100%;
+height:60px;   /* Height of the footer */
+}
